@@ -12,13 +12,13 @@ Vue.use(VueRouter)
     component: Home
   },
   {
-    path: '/about',
-    name: 'About',
+    path: '/rankings',
+    name: 'Rankings',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: function () {
-      return import(/* webpackChunkName: "about" */ '../views/About.vue')
+      return import(/* webpackChunkName: "about" */ '../views/Rankings.vue')
     }
   },
   // {
@@ -31,7 +31,8 @@ Vue.use(VueRouter)
 ]
 
 const router = new VueRouter({
-  routes
+  routes,
+  mode: 'history' // Gets rid of # char in the URL
 })
 
 export default router
