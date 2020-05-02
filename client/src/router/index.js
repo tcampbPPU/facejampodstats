@@ -4,6 +4,7 @@ import Home from '../views/Home.vue'
 
 Vue.use(VueRouter)
 
+  // By default we load in the home page, the rest of page lazy loaded in
   const routes = [
   {
     path: '/',
@@ -19,7 +20,14 @@ Vue.use(VueRouter)
     component: function () {
       return import(/* webpackChunkName: "about" */ '../views/About.vue')
     }
-  }
+  },
+  // {
+  //   path: '/test',
+  //   name: 'Test',
+  //   component: function () {
+  //     return import(/* webpackChunkName: "about" */ '../views/Test.vue')
+  //   }
+  // }
 ]
 
 const router = new VueRouter({
