@@ -1,0 +1,13 @@
+#!/bin/bash
+
+curl --location --request POST 'http://localhost:4000/api/v1/episodes' \
+--header 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvbG9naW4iLCJpYXQiOjE1ODgxNjQ1MDIsImV4cCI6MTU4ODI1MDkwMiwibmJmIjoxNTg4MTY0NTAyLCJqdGkiOiJ3ejdZeWtuZmp5NlZNS1dwIiwic3ViIjo1MjAsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.b9kZGh31HhPYtAm-u1p2v9w46QDWuRBbyHNP6v9XR_w' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "episodeNumber": 6,
+    "episodeTitle": "McDonald'\''s Bacon BBQ Burger & Snickerdoodle McFlurry",
+    "michaelScore": 100,
+    "jordanScore": 50,
+    "airDate": "2020-01-07",
+    "url": "https://open.spotify.com/embed-podcast/episode/0aOK4texQH9HS3gK4POIkb"
+}'
