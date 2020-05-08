@@ -6,8 +6,8 @@ curl --location --request POST 'http://localhost:4000/api/v1/episodes' \
 --data-raw '{
     "episodeNumber": 13,
     "episodeTitle": "Whataburger BBQ Bacon Burger & Dr Pepper Shake",
-    "michaelScore": 100,
-    "jordanScore": 50,
+    "michaelScore": 85,
+    "jordanScore": 63,
     "airDate": "2020-04-14",
     "url": "https://open.spotify.com/embed-podcast/episode/7kUS4CgCEbeexfMgUwprsb"
 }'

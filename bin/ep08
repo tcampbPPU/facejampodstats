@@ -6,8 +6,8 @@ curl --location --request POST 'http://localhost:4000/api/v1/episodes' \
 --data-raw '{
     "episodeNumber": 8,
     "episodeTitle": "Jack in the Box Tiny Tacos & Loaded Tiny Tacos",
-    "michaelScore": 100,
-    "jordanScore": 50,
+    "michaelScore": 85.3,
+    "jordanScore": 45,
     "airDate": "2020-02-04",
     "url": "https://open.spotify.com/embed-podcast/episode/05dUXSWh54OVeo1kiS2Y6E"
 }'

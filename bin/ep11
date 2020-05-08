@@ -6,8 +6,8 @@ curl --location --request POST 'http://localhost:4000/api/v1/episodes' \
 --data-raw '{
     "episodeNumber": 11,
     "episodeTitle": "Sonic Double Stack Cheeseburger & Reese'\''s Overload Blast",
-    "michaelScore": 100,
-    "jordanScore": 50,
+    "michaelScore": 95,
+    "jordanScore": 62,
     "airDate": "2020-03-17",
     "url": "https://open.spotify.com/embed-podcast/episode/1JUIiJ8Ktx5efVVAQLejWv"
 }'

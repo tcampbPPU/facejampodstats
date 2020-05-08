@@ -6,8 +6,8 @@ curl --location --request POST 'http://localhost:4000/api/v1/episodes' \
 --data-raw '{
     "episodeNumber": 12,
     "episodeTitle": "Pizza Hut Big Dipper & Mozzarella Popper Pizzas",
-    "michaelScore": 100,
-    "jordanScore": 50,
+    "michaelScore": 25,
+    "jordanScore": 10,
     "airDate": "2020-03-31",
     "url": "https://open.spotify.com/embed-podcast/episode/6y7lUHFCYIzIQf0h5FJSSZ"
 }'

@@ -6,8 +6,8 @@ curl --location --request POST 'http://localhost:4000/api/v1/episodes' \
 --data-raw '{
     "episodeNumber": 6,
     "episodeTitle": "McDonald'\''s Bacon BBQ Burger & Snickerdoodle McFlurry",
-    "michaelScore": 100,
-    "jordanScore": 50,
+    "michaelScore": 99.85,
+    "jordanScore": 48,
     "airDate": "2020-01-07",
     "url": "https://open.spotify.com/embed-podcast/episode/0aOK4texQH9HS3gK4POIkb"
 }'

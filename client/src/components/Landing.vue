@@ -1,12 +1,15 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <div class="disclaimer sansserif">
+      <span>*Fan made. No affiliation with Rooster Teeth</span>
+    </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'Landing',
   props: {
     msg: String
   }
@@ -28,5 +31,10 @@ li {
 }
 a {
   color: #42b983;
+}
+.disclaimer {
+  color: black;
+  font-style: italic;
+  font-size: 10px;
 }
 </style>

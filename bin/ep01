@@ -6,8 +6,8 @@ curl --location --request POST 'http://localhost:4000/api/v1/episodes' \
 --data-raw '{
     "episodeNumber": 1,
     "episodeTitle": "Face Jam Pilot",
-    "michaelScore": 100,
-    "jordanScore": 50,
+    "michaelScore": 94,
+    "jordanScore": 63,
     "airDate": "2019-11-12",
     "url": "https://open.spotify.com/embed-podcast/episode/0TkbEfsVAisqnjNP5364th"
 }'

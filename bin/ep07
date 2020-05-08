@@ -6,8 +6,8 @@ curl --location --request POST 'http://localhost:4000/api/v1/episodes' \
 --data-raw '{
     "episodeNumber": 7,
     "episodeTitle": "Arby’s Fish ‘N Cheddar Sandwich & Mint Chocolate Shake",
-    "michaelScore": 100,
-    "jordanScore": 50,
+    "michaelScore": 39,
+    "jordanScore": 17,
     "airDate": "2020-01-21",
     "url": "https://open.spotify.com/embed-podcast/episode/5GGa1imaTHPCCrLwUGIf4g"
 }'

@@ -30,6 +30,10 @@ const EpisodeSchema = new mongoose.Schema({
     type: Date,
     required: [true, "Please add the air date of the episode."],
   },
+  url: {
+    type: String,
+    required: [true, "Please add the Spotify URL."],
+  },
   createdAt: {
     type: Date,
     default: Date.now,

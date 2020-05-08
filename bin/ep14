@@ -6,8 +6,8 @@ curl --location --request POST 'http://localhost:4000/api/v1/episodes' \
 --data-raw '{
     "episodeNumber": 14,
     "episodeTitle": "Steak n Shake Pork Belly Steakburger & Cotton Candy Shake",
-    "michaelScore": 100,
-    "jordanScore": 50,
+    "michaelScore": 97,
+    "jordanScore": 53,
     "airDate": "2020-04-28",
     "url": "https://open.spotify.com/embed-podcast/episode/0CXFPVPD1JCgyKOMgy4Mnd"
 }'

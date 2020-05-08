@@ -3,7 +3,10 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 import axios from  'axios';
-import moment from 'moment'
+import moment from 'moment';
+import _ from 'lodash'; 
+
+require('@/assets/styles/main.css')
 
 
 Vue.config.productionTip = false

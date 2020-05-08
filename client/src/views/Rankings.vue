@@ -1,6 +1,6 @@
 <template>
   <div class="ranks">
-    <h2>Curent Rankings</h2>
+    <h2>Current Rankings</h2>
       <RankTable />
   </div>
 </template>
@@ -8,7 +8,7 @@
 <script>
 import RankTable from '../components/RankTable';
 export default {
-  name: 'Test',
+  name: 'Ranks',
   components: {
     RankTable
   }

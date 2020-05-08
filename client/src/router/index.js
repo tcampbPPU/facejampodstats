@@ -21,13 +21,13 @@ Vue.use(VueRouter)
       return import(/* webpackChunkName: "about" */ '../views/Rankings.vue')
     }
   },
-  // {
-  //   path: '/test',
-  //   name: 'Test',
-  //   component: function () {
-  //     return import(/* webpackChunkName: "about" */ '../views/Test.vue')
-  //   }
-  // }
+  {
+    path: '/episode/:id',
+    name: 'Episode',
+    component: function () {
+      return import(/* webpackChunkName: "about" */ '../views/Episode.vue')
+    }
+  }
 ]
 
 const router = new VueRouter({

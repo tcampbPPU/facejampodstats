@@ -10,12 +10,14 @@ export default new Vuex.Store({
   state: {
     isBusy: true,
     episodes: [],
+    episode: [],
     errors: {}
 
   },
   // allows us to get the data
   getters: {
     episodes: state => state.episodes,
+    episode: state => state.episode,
     isBusy: state => state.isBusy,
     errors: state => state.errors,
 
@@ -25,7 +27,10 @@ export default new Vuex.Store({
   mutations: {
     FETCH_EPISODES(state, episodes) {
       state.episodes = episodes;
-    },    
+    },
+    FETCH_EPISODE_BY_NUMBER(state, episode) {
+      state.episode = episode;
+    },
     SET_BUSY(state) {
       state.isBusy = true;
     },
