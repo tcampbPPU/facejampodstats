@@ -7,7 +7,7 @@ const Episode = require("../models/Episode");
  */
 exports.getEpisodes = async (req, res, next) => {
   try {
-    const episodes = await Episode.find();
+    const episodes = await Episode.find().sort({ 'average' : 'desc'})
 
     return res.status(200).json({
       success: true,
@@ -23,6 +23,41 @@ exports.getEpisodes = async (req, res, next) => {
     });
   }
 };
+
+
+/**
+ * @desc     fetch episode details
+ * @route    GET /api/v1/episode/:id
+ * @access   Public
+ */
+exports.getEpisodeDetails = async (req, res, next) => {
+  try {
+    const episodeNumber = req.params.id;
+    const episode = await Episode.find({"episodeNumber": episodeNumber});
+
+    // If not found
+    if (!episode.length) {
+      return res.status(404).json({
+        success: false,
+        message: "Episode number was not found.",
+      });      
+    }
+
+    return res.status(200).json({
+      success: true,
+      message: "Episode details retrieved successfully.",
+      data: episode,
+    });
+  } catch (err) {
+    const messages = Object.values(err.errors).map(val => val.message);
+    return res.status(500).json({
+      success: false,
+      error: messages,
+    });
+  }
+};
+
+
 
 /**
  * @desc     add a episode

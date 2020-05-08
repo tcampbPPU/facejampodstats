@@ -7,9 +7,5 @@ router
     .route('/')
     .get(getEpisodes)
     .post(addEpisodes);
-
-
-
-
+    
 module.exports = router;
-

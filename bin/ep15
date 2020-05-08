@@ -1,0 +1,15 @@
+#!/bin/bash
+
+
+
+curl --location --request POST 'http://localhost:4000/api/v1/episodes' \
+--header 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvbG9naW4iLCJpYXQiOjE1ODgxNjQ1MDIsImV4cCI6MTU4ODI1MDkwMiwibmJmIjoxNTg4MTY0NTAyLCJqdGkiOiJ3ejdZeWtuZmp5NlZNS1dwIiwic3ViIjo1MjAsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.b9kZGh31HhPYtAm-u1p2v9w46QDWuRBbyHNP6v9XR_w' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "episodeNumber": 15,
+    "episodeTitle": "Introducing Black Box Down",
+    "michaelScore": 68,
+    "jordanScore": 73,
+    "airDate": "2020-04-16",
+    "url": "https://open.spotify.com/embed-podcast/episode/3e7vusGURCFznKCzLOe2H6"
+}'

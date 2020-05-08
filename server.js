@@ -15,6 +15,8 @@ connectDB();
 
 // import router files
 const podcast = require('./routes/podcasts');
+const episode = require('./routes/episode');
+
 
 // init app
 const app = express();
@@ -31,6 +33,8 @@ if (process.env.NODE_ENV === 'development') {
 
 // routes
 app.use('/api/v1/episodes', podcast);
+app.use('/api/v1/episode', episode);
+
 
 // check for production
 if (process.env.NODE_ENV === 'production') {
@@ -38,9 +42,6 @@ if (process.env.NODE_ENV === 'production') {
     app.get('*', (req, res) => res.sendFile(path.resolve(__dirname, 'client', 'dist', 'index.html')));
     app.use('/robots.txt', (req, res) => res.sendFile(path.resolve(__dirname, 'client', 'dist', 'robots.txt')));
     app.use('/sitemap.xml', (req, res) => res.sendFile(path.resolve(__dirname, 'client', 'dist', 'sitemap.xml')));
-
-
-
 }
 
 
