@@ -1,0 +1,21 @@
+{
+    "name": "site",
+    "version": "1.0.0",
+    "description": "example site",
+    "main": "index.js",
+    "repository": "git@github.com:tcampbPPU/docs.git",
+    "author": "Tanner Campbell",
+    "license": "MIT",
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "private": true,
+    "dependencies": {
+        "@nuxt/content-theme-docs": "^0.8.2",
+        "nuxt": "^2.14.7",
+        "nuxt-password-protect": "^1.3.1"
+    }
+}
