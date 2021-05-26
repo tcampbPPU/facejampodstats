@@ -6,7 +6,7 @@ category: ''
 
 ### Latest Episode
 
-[Sonic Twisted Texan Burger & Footlong Quarter Pound Coney](episodes/41)
+[Chipotle 21 Pilots Burrito](episodes/42)
 
 ### Rankings
 
@@ -15,6 +15,7 @@ category: ''
 | 95      | Dog Haus Oktoberwurst                                                       | [27](episodes/27) | October 27th, 2020   |
 | 89      | P Terry's Crispy Chicken Burger & Peach Cobbler Shake                       | [18](episodes/18) | June 23rd, 2020      |
 | 85      | Papa John's Papadias                                                        | [9](episodes/9)   | February 18th, 2020  |
+| 82.5    | Chipotle 21 Pilots Burrito                                                  | [42](episodes/42) | May 25th, 2021       |
 | 82      | KFC Nashville Hot Chicken & Waffles                                         | [4](episodes/4)   | December 10th, 2019  |
 | 78.5    | Face Jame Pilot                                                             | [1](episodes/1)   | November 12th, 2019  |
 | 78.5    | Sonic Double Stack Cheeseburger & Reese's Overload Blast                    | [11](episodes/11) | March 17th, 2020     |
