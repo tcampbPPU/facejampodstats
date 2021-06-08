@@ -6,7 +6,7 @@ category: ''
 
 ### Latest Episode
 
-[Chipotle 21 Pilots Burrito](episodes/42)
+[Little Caesars Cheeser Cheeser Pizza](episodes/43)
 
 ### Rankings
 
@@ -20,6 +20,7 @@ category: ''
 | 78.5    | Face Jame Pilot                                                             | [1](episodes/1)   | November 12th, 2019  |
 | 78.5    | Sonic Double Stack Cheeseburger & Reese's Overload Blast                    | [11](episodes/11) | March 17th, 2020     |
 | 78.5    | Wendy's Pretzel Bacon Pub Cheeseburger & Chicken Sandwich                   | [25](episodes/25) | September 29th, 2020 |
+| 78.1    | Little Caesars Cheeser Cheeser Pizza                                        | [43](episodes/43) | June 8th, 2021       |
 | 77      | Sonic Twisted Texan Burger & Footlong Quarter Pound Coney                   | [41](episodes/41) | May 11th, 2021       |
 | 76      | Burger King Spicy Nuggets                                                   | [16](episodes/16) | May 26th, 2020       |
 | 75      | Steak n Shake Pork Belly Steakburger & Cotton Candy Shake                   | [14](episodes/14) | April 28th, 2020     |
