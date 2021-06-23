@@ -21,7 +21,7 @@ category: ''
 | 78.5    | Sonic Double Stack Cheeseburger & Reese's Overload Blast                    | [11](episodes/11) | March 17th, 2020     |
 | 78.5    | Wendy's Pretzel Bacon Pub Cheeseburger & Chicken Sandwich                   | [25](episodes/25) | September 29th, 2020 |
 | 78.1    | Little Caesars Cheeser Cheeser Pizza                                        | [43](episodes/43) | June 8th, 2021       |
-| 77.5    | TGI Fridays Under the Big Top Menu                                          | [44](episodes/44) | June 22nd, 2021      |
+| 77.5    | Torchy's Texas Hottie                                                       | [44](episodes/44) | June 22nd, 2021      |
 | 77      | Sonic Twisted Texan Burger & Footlong Quarter Pound Coney                   | [41](episodes/41) | May 11th, 2021       |
 | 76      | Burger King Spicy Nuggets                                                   | [16](episodes/16) | May 26th, 2020       |
 | 75      | Steak n Shake Pork Belly Steakburger & Cotton Candy Shake                   | [14](episodes/14) | April 28th, 2020     |
