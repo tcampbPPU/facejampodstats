@@ -6,7 +6,7 @@ category: ''
 
 ### Latest Episode
 
-[Torchy's Texas Hottie](episodes/44)
+[Wendy's Bourbon Bacon Cheeseburger](episodes/45)
 
 ### Rankings
 
@@ -23,6 +23,7 @@ category: ''
 | 78.1    | Little Caesars Cheeser Cheeser Pizza                                        | [43](episodes/43) | June 8th, 2021       |
 | 77.5    | Torchy's Texas Hottie                                                       | [44](episodes/44) | June 22nd, 2021      |
 | 77      | Sonic Twisted Texan Burger & Footlong Quarter Pound Coney                   | [41](episodes/41) | May 11th, 2021       |
+| 76.75   | Wendy's Bourbon Bacon Cheeseburger                                          | [45](episodes/45) | July 6th, 2021       |
 | 76      | Burger King Spicy Nuggets                                                   | [16](episodes/16) | May 26th, 2020       |
 | 75      | Steak n Shake Pork Belly Steakburger & Cotton Candy Shake                   | [14](episodes/14) | April 28th, 2020     |
 | 74      | Applebee's 25 Cent Wings & \$1 Vodka Cranberry Lemonade                     | [3](episodes/3)   | November 26th, 2019  |
