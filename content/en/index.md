@@ -6,7 +6,7 @@ category: ''
 
 ### Latest Episode
 
-[Wendy's Bourbon Bacon Cheeseburger](episodes/45)
+[Burger King Ch'King Deluxe & Spicy Ch'King Deluxe](episodes/46)
 
 ### Rankings
 
@@ -55,5 +55,6 @@ category: ''
 | 28      | Arby’s Fish ‘N Cheddar Sandwich & Mint Chocolate Shake                      | [7](episodes/7)   | January 21st, 2020   |
 | 23      | Domino's Chicken Taco Pizza & Cheeseburger Pizza                            | [24](episodes/24) | September 15th, 2020 |
 | 17.5    | Pizza Hut Big Dipper & Mozzarella Popper Pizzas                             | [12](episodes/12) | March 31st, 2020     |
+| 15      | Burger King Ch'King Deluxe & Spicy Ch'King Deluxe                           | [46](episodes/46) | July 20th, 2021      |
 | 14      | Subway BBQ Rib Sandwich                                                     | [21](episodes/21) | August 4th, 2020     |
 | 13.8    | TGI Fridays Under the Big Top Menu                                          | [39](episodes/39) | April 13th, 2021     |
