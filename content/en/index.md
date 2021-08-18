@@ -6,7 +6,7 @@ category: ''
 
 ### Latest Episode
 
-[Red Robin Scorpion Gourmet Burger & Scorpion Wings](episodes/47)
+[Jack in the Box Spicy Tiny Tacos and Loaded Spicy Tiny Tacos](episodes/48)
 
 ### Rankings
 
@@ -35,6 +35,7 @@ category: ''
 | 70.5    | Golden Chick Cholula Chicken Sandwich & Tenders                             | [29](episodes/29) | November 24th, 2020  |
 | 70      | Dairy Queen Rotisserie-Style Chicken Bites & Brownie Dough Blizzard         | [33](episodes/33) | January 19th, 2021   |
 | 65.5    | Red Robin Scorpion Gourmet Burger & Scorpion Wings                          | [47](episodes/47) | August 3rd, 2021     |
+| 65.15   | Jack in the Box Spicy Tiny Tacos and Loaded Spicy Tiny Tacos                | [48](episodes/48) | August 17th, 2021    |
 | 65      | Jack in the Box Tiny Tacos & Loaded Tiny Tacos                              | [8](episodes/8)   | February 4th, 2020   |
 | 64      | Boston Market Tuscan Chicken & Chicken Marsala                              | [30](episodes/30) | December 8th, 2020   |
 | 63      | IHOP Elf on the Shelf Menu                                                  | [5](episodes/5)   | December 24th, 2019  |
