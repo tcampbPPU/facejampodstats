@@ -38,11 +38,9 @@ body:
     description: Which environment of our software where you on?
     multiple: true
     options:
-      - QA
       - Dev
-      - Edwards Dev
-      - Edwards Stage
-      - Edwards Production
+      - Stage
+      - Production
   validations:
     required: true
 - type: dropdown
