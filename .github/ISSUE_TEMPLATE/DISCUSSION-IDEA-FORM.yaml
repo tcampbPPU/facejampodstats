@@ -1,36 +1,32 @@
-name: 🏗️ Feature
-description: Feature request
-title: "[FEATURE] <title>"
-labels: [improvement]
+name: 💡 Discussion or Idea
+description: Discussion or Idea request
+title: "<title>"
+labels: [discuss, idea, question]
 body:
 - type: checkboxes
   attributes:
     label: Is there an existing issue for this?
-    description: Please search to see if an issue already exists for the feature request.
+    description: Please search to see if an issue already exists for the idea you want to submit.
     options:
     - label: I have searched the existing issues
       required: true
 - type: textarea
   attributes:
-    label: Issue / Request Related to a Problem?
-    description: A clear and concise description of what the problem is.
-    placeholder: ex. I'm always frustrated when [...].
+    label: Summary
+    description: Please provide a summary for the discussion or idea request
+    placeholder: ex. I think a really good idea would be ...
   validations:
     required: false
 - type: textarea
   attributes:
-    label: Solution
-    description: Sequence of steps needed to complete this feature.
-    value: |
-      - [ ] Step 1
-      - [ ] Step 2
-      - [ ] Step 3   
+    label: What Issue Are We Solving?
+    description: Give a detailed descriptions of the task we are trying to solve.
   validations:
     required: false
 - type: textarea
   attributes:
-    label: Designs & Markups
-    description: Provide any designs and/or wire frames
+    label: Examples
+    description: Any examples of this being done elsewhere?
   validations:
     required: false
 - type: textarea
