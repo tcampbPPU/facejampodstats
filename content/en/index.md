@@ -6,7 +6,7 @@ category: ''
 
 ### Latest Episode
 
-[Jack in the Box Spicy Tiny Tacos and Loaded Spicy Tiny Tacos](episodes/48)
+[Little Caesars Crazy Calzony](episodes/49)
 
 ### Rankings
 
@@ -41,6 +41,7 @@ category: ''
 | 63      | IHOP Elf on the Shelf Menu                                                  | [5](episodes/5)   | December 24th, 2019  |
 | 60      | Carl's Jr Spicy Western Bacon Cheeseburger & Angus Thickburger              | [19](episodes/19) | July 7th, 2020       |
 | 57.5    | Olive Garden Amazing Alfredos                                               | [20](episodes/20) | July 21st, 2020      |
+| 56.5    | Little Caesars Crazy Calzony                                                | [49](episodes/49) | August 31st, 2021    |
 | 54.5    | Panda Express Honey Sesame Chicken                                          | [23](episodes/23) | September 1st, 2020  |
 | 53.5    | Popeyes Chicken Sandwich                                                    | [2](episodes/2)   | November 12th, 2019  |
 | 52.5    | Jack in the Box Popcorn Chicken                                             | [40](episodes/40) | April 27th, 2021     |
