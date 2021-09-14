@@ -6,7 +6,7 @@ category: ''
 
 ### Latest Episode
 
-[Little Caesars Crazy Calzony](episodes/49)
+[Wendy's Big Bacon Cheddar Cheeseburger & Chicken Sandwich](episodes/50)
 
 ### Rankings
 
@@ -54,6 +54,7 @@ category: ''
 | 44      | Red Lobster Wagyu Bacon Cheeseburger                                        | [35](episodes/35) | February 16th, 2021  |
 | 41.5    | Taco Bell Buffalo Chicken Nacho Fries & Buffalo Chicken Nacho Fries Burrito | [10](episodes/10) | March 3rd, 2020      |
 | 41      | Fazoli's Parmesan-Crusted Alfredo with Meatballs                            | [26](episodes/26) | October 13th, 2020   |
+| 32      | Wendy's Big Bacon Cheddar Cheeseburger & Chicken Sandwich                   | [50](episodes/50) | September 14th, 2021 |
 | 30      | Outback Steakhouse Peppercorn Short Rib                                     | [32](episodes/32) | January 5th, 2021    |
 | 28      | Arby’s Fish ‘N Cheddar Sandwich & Mint Chocolate Shake                      | [7](episodes/7)   | January 21st, 2020   |
 | 23      | Domino's Chicken Taco Pizza & Cheeseburger Pizza                            | [24](episodes/24) | September 15th, 2020 |
