@@ -6,7 +6,7 @@ category: ''
 
 ### Latest Episode
 
-[Whataburger Hatch Green Chile Bacon Burger & Chocolate Mint Shake](episodes/52)
+[Papa John's Triple Bacon Pizza & Bacon Jalapeno Popper Rolls](episodes/53)
 
 ### Rankings
 
@@ -49,6 +49,7 @@ category: ''
 | 49      | Denny's Big Dipper Melt                                                     | [37](episodes/37) | March 16th, 2021     |
 | 47.5    | Quiznos Cubano Sandwich                                                     | [22](episodes/22) | August 18th, 2020    |
 | 47      | Taco Cabana Chicken Tinga & Cheese Poblano Torpedos                         | [31](episodes/31) | December 22nd, 2020  |
+| 46      | Papa John's Triple Bacon Pizza & Bacon Jalapeno Popper Rolls                | [53](episodes/53) | October 26th, 2021   |
 | 45      | Buffalo Wild Wings Pizza Wings                                              | [28](episodes/28) | November 10th, 2020  |
 | 44.5    | IHOP's Halloween Menu                                                       | [51](episodes/51) | September 28th, 2021 |
 | 44      | Wienerschnitzel World of Wieners                                            | [15](episodes/15) | May 12th, 2020       |
