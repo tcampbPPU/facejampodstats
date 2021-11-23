@@ -6,7 +6,7 @@ category: ''
 
 ### Latest Episode
 
-[Church's Texas-Cut Bacon Chicken Sandwich](episodes/54)
+[Applebees Cheetos Boneless Wings & Cheetos Cheese Bites](episodes/55)
 
 ### Rankings
 
@@ -58,6 +58,7 @@ category: ''
 | 44      | Red Lobster Wagyu Bacon Cheeseburger                                        | [35](episodes/35) | February 16th, 2021  |
 | 41.5    | Taco Bell Buffalo Chicken Nacho Fries & Buffalo Chicken Nacho Fries Burrito | [10](episodes/10) | March 3rd, 2020      |
 | 41      | Fazoli's Parmesan-Crusted Alfredo with Meatballs                            | [26](episodes/26) | October 13th, 2020   |
+| 34.5    | Applebees Cheetos Boneless Wings & Cheetos Cheese Bites                     | [55](episodes/55) | November 23rd, 2021  |
 | 32      | Wendy's Big Bacon Cheddar Cheeseburger & Chicken Sandwich                   | [50](episodes/50) | September 14th, 2021 |
 | 30      | Outback Steakhouse Peppercorn Short Rib                                     | [32](episodes/32) | January 5th, 2021    |
 | 28      | Arby’s Fish ‘N Cheddar Sandwich & Mint Chocolate Shake                      | [7](episodes/7)   | January 21st, 2020   |
