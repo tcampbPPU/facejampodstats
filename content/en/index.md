@@ -6,7 +6,7 @@ category: ''
 
 ### Latest Episode
 
-[Applebees Cheetos Boneless Wings & Cheetos Cheese Bites](episodes/55)
+[Outback Steakhouse Espresso Butter Steak](episodes/56)
 
 ### Rankings
 
@@ -42,6 +42,7 @@ category: ''
 | 64      | Boston Market Tuscan Chicken & Chicken Marsala                              | [30](episodes/30) | December 8th, 2020   |
 | 63      | IHOP Elf on the Shelf Menu                                                  | [5](episodes/5)   | December 24th, 2019  |
 | 60      | Carl's Jr Spicy Western Bacon Cheeseburger & Angus Thickburger              | [19](episodes/19) | July 7th, 2020       |
+| 59      | Outback Steakhouse Espresso Butter Steak                                    | [56](episodes/56) | December 7th, 2021   |
 | 57.5    | Olive Garden Amazing Alfredos                                               | [20](episodes/20) | July 21st, 2020      |
 | 56.5    | Little Caesars Crazy Calzony                                                | [49](episodes/49) | August 31st, 2021    |
 | 54.5    | Panda Express Honey Sesame Chicken                                          | [23](episodes/23) | September 1st, 2020  |
