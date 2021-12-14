@@ -8,6 +8,10 @@ category: ''
 
 [Outback Steakhouse Espresso Butter Steak](episodes/56)
 
+### About
+
+Fast food creations are coming out too fast to keep track of but luckily Michael Jones and Jordan Cwierz are here to eat and judge every new menu item under the sun. One has high standards. The other has no taste. This is Face Jam.
+
 ### Rankings
 
 | Average | Episode Title                                                               | Episode           | Episode Date         |
