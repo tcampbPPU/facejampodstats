@@ -72,12 +72,15 @@ export default {
       title: this.document.title,
       meta: [
         { hid: 'description', name: 'description', content: this.document.description },
+        { hid: 'image', name: 'image', content: this.document.thumbnail ?? 'https://facejampodstats.com/icon.png' },
         // Open Graph
         { hid: 'og:title', property: 'og:title', content: this.document.title },
         { hid: 'og:description', property: 'og:description', content: this.document.description },
+        { hid: 'og:image', name: 'image', content: this.document.thumbnail ?? 'https://facejampodstats.com/icon.png' },
         // Twitter Card
         { hid: 'twitter:title', name: 'twitter:title', content: this.document.title },
-        { hid: 'twitter:description', name: 'twitter:description', content: this.document.description }
+        { hid: 'twitter:description', name: 'twitter:description', content: this.document.description },
+        { hid: 'twitter:image', name: 'image', content: this.document.thumbnail ?? 'https://facejampodstats.com/icon.png' },
       ]
     }
   },
