@@ -6,7 +6,7 @@ category: ''
 
 ### Latest Episode
 
-[Sonic Fritos Chili Cheese Wrap & Garlic Butter Bacon Burger](episodes/57)
+[Burger King Italian Original Chicken Sandwich](episodes/58)
 
 ### About
 
@@ -73,3 +73,4 @@ Fast food creations are coming out too fast to keep track of but luckily Michael
 | 15      | Burger King Ch'King Deluxe & Spicy Ch'King Deluxe                           | [46](episodes/46) | July 20th, 2021      |
 | 14      | Subway BBQ Rib Sandwich                                                     | [21](episodes/21) | August 4th, 2020     |
 | 13.8    | TGI Fridays Under the Big Top Menu                                          | [39](episodes/39) | April 13th, 2021     |
+| 7.825   | Burger King Italian Original Chicken Sandwich                               | [58](episodes/58) | January 4th, 2022    |
