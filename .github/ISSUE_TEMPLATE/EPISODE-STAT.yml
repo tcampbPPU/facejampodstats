@@ -10,6 +10,8 @@ body:
     options:
       - Eric Fact
       - Snack Attack Rating
+  validations:
+    required: true      
 - type: textarea
   attributes:
     label: Timestamps where the statistic is available
