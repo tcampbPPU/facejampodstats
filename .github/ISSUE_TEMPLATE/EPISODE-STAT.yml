@@ -1,0 +1,18 @@
+name: 🧮 Episode Statistic
+description: Provide episode statistics
+title: "[Episode Statistic]"
+labels: [episode]
+body:
+- type: dropdown
+  id: type
+  attributes:
+    label: Choose the type of statistic?
+    options:
+      - Eric Fact
+      - Snack Attack Rating
+- type: textarea
+  attributes:
+    label: Timestamps where the statistic is available
+    description: Please provide the timestamps where the statistic is available.
+  validations:
+    required: true
