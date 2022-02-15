@@ -14,6 +14,22 @@ I am looking for help getting in some of the facts and snack attack ratings. If 
 
 You can either submit any help as a PR or a issue with this [form](https://github.com/tcampbPPU/facejampodstats/issues/new?assignees=&labels=episode&template=EPISODE-STAT.yml&title=%5BEpisode+Statistic%5D) 
 
-> For Example: Snack Attack Rankings at 54:00 on episode 45
+> For Example: Snack Attack Rankings starts at 54:00 on episode 45
+
+### Installing
+
+#### Requirements
+* Node version 16
+* yarn
+
+```bash
+git clone git@github.com:tcampbPPU/facejampodstats.git; cd facejampodstats; yarn; yarn dev;
+```
+
+`main` is the primary branch. When making feature or bugfix branches you should start with checking out main branch and creating your new branch based from it.
+
+> `git checkout -b feature/new-feature`
+
+All feature/bugfix PR's will merge into `main`.
 
 Thanks!

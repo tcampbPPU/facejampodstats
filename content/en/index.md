@@ -6,7 +6,7 @@ category: ''
 
 ### Latest Episode
 
-[Taco Cabana's Birria Quesadilla](episodes/60)
+[Wendy's Hot Honey Chicken Sandwich & Biscuit](episodes/61)
 
 ### About
 
@@ -35,6 +35,7 @@ Fast food creations are coming out too fast to keep track of but luckily Michael
 | 74      | Wingstop Hot Lemon, Bayou BBQ, & Lemon Garlic Wings                         | [36](episodes/36) | March 2nd, 2021      |
 | 74      | Taco Bell Quesalupa                                                         | [38](episodes/38) | March 30th, 2021     |
 | 73.5    | McDonald's Bacon BBQ Burger & Snickerdoodle McFlurry                        | [6](episodes/6)   | January 7th, 2020    |
+| 72.5    | Wendy's Hot Honey Chicken Sandwich & Biscuit                                | [61](episodes/61) | February 15th, 2022  |
 | 72.5    | Arby’s Diablo Dare Sandwiches                                               | [59](episodes/59) | January 18th, 2022   |
 | 71      | Shake Shack Korean-Style Fried Chicken Sandwich & Gochujang Fries           | [34](episodes/34) | February 2nd, 2021   |
 | 70.5    | Golden Chick Cholula Chicken Sandwich & Tenders                             | [29](episodes/29) | November 24th, 2020  |

@@ -1,10 +1,16 @@
 {
-    "name": "site",
+    "name": "facejampodstats",
     "version": "1.0.0",
-    "description": "example site",
-    "main": "index.js",
-    "repository": "git@github.com:tcampbPPU/docs.git",
+    "description": "Face Jam Podcast Stats Website",
+    "private": true,
+    "repository": "git@github.com:tcampbPPU/facejampodstats.git",
     "author": "Tanner Campbell",
+    "contributors": [
+        {
+            "name": "Tanner Campbell",
+            "email": "tcamp022@gmail.com"
+        }
+    ],
     "license": "MIT",
     "scripts": {
         "dev": "nuxt",
@@ -12,7 +18,6 @@
         "start": "nuxt start",
         "generate": "nuxt generate"
     },
-    "private": true,
     "dependencies": {
         "@nuxt/content-theme-docs": "^0.8.2",
         "@nuxtjs/robots": "^2.5.0",
