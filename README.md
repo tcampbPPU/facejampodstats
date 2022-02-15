@@ -12,7 +12,7 @@ Main content is located within https://github.com/tcampbPPU/facejampodstats/tree
 
 I am looking for help getting in some of the facts and snack attack ratings. If you are able to provide info about either for a episode please provide a timestamp so I can easily verify.
 
-You can either submit any help as a PR or a issue with this [form](https://github.com/tcampbPPU/facejampodstats/issues/new?assignees=&labels=episode&template=EPISODE-STAT.yaml&title=%5BEpisode+Statistic%5D) 
+You can either submit any help as a PR or a issue with this [form](https://github.com/tcampbPPU/facejampodstats/issues/new?assignees=&labels=episode&template=EPISODE-STAT.yml&title=%5BEpisode+Statistic%5D) 
 
 > For Example: Snack Attack Rankings at 54:00 on episode 45
 

@@ -1,5 +1,6 @@
 ---
-title: Info
+title: About
+menuTitle: Info
 category: ''
 ---
 
