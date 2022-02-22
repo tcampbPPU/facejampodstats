@@ -6,7 +6,7 @@ category: ''
 
 ### Latest Episode
 
-[Wendy's Hot Honey Chicken Sandwich & Biscuit](episodes/61)
+[Lou Malnati's Deep Dish & Crustless Pizza](episodes/62)
 
 ### About
 
@@ -48,6 +48,7 @@ Fast food creations are coming out too fast to keep track of but luckily Michael
 | 64      | Whataburger Hatch Green Chile Bacon Burger & Chocolate Mint Shake           | [52](episodes/52) | October 12th, 2021   |
 | 64      | Boston Market Tuscan Chicken & Chicken Marsala                              | [30](episodes/30) | December 8th, 2020   |
 | 63      | IHOP Elf on the Shelf Menu                                                  | [5](episodes/5)   | December 24th, 2019  |
+| 61.5    | Lou Malnati's Deep Dish & Crustless Pizza                                   | [62](episodes/62) | February 20th, 2022  |
 | 60      | Carl's Jr Spicy Western Bacon Cheeseburger & Angus Thickburger              | [19](episodes/19) | July 7th, 2020       |
 | 59      | Outback Steakhouse Espresso Butter Steak                                    | [56](episodes/56) | December 7th, 2021   |
 | 57.5    | Olive Garden Amazing Alfredos                                               | [20](episodes/20) | July 21st, 2020      |
