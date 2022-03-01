@@ -6,7 +6,7 @@ category: ''
 
 ### Latest Episode
 
-[Lou Malnati's Deep Dish & Crustless Pizza](episodes/62)
+[Pizza Hut Spicy Lover's Pizzas](episodes/63)
 
 ### About
 
@@ -72,6 +72,7 @@ Fast food creations are coming out too fast to keep track of but luckily Michael
 | 30      | Outback Steakhouse Peppercorn Short Rib                                     | [32](episodes/32) | January 5th, 2021    |
 | 28      | Arby’s Fish ‘N Cheddar Sandwich & Mint Chocolate Shake                      | [7](episodes/7)   | January 21st, 2020   |
 | 23      | Domino's Chicken Taco Pizza & Cheeseburger Pizza                            | [24](episodes/24) | September 15th, 2020 |
+| 21      | Pizza Hut Spicy Lover's Pizzas                                              | [63](episodes/63) | March 1st, 2022      |
 | 17.5    | Pizza Hut Big Dipper & Mozzarella Popper Pizzas                             | [12](episodes/12) | March 31st, 2020     |
 | 15      | Burger King Ch'King Deluxe & Spicy Ch'King Deluxe                           | [46](episodes/46) | July 20th, 2021      |
 | 14      | Subway BBQ Rib Sandwich                                                     | [21](episodes/21) | August 4th, 2020     |
