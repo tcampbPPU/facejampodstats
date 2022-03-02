@@ -1,6 +1,7 @@
 ---
-title: About
+title: Info
 category: ''
+position: 1
 ---
 
 Site maintained by a loyal jammer. 
