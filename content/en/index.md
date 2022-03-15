@@ -6,7 +6,7 @@ category: ''
 
 ### Latest Episode
 
-[Pizza Hut Spicy Lover's Pizzas](episodes/63)
+[Zaxby's Signature Club Sandwich](episodes/64)
 
 ### About
 
@@ -67,6 +67,7 @@ Fast food creations are coming out too fast to keep track of but luckily Michael
 | 44      | Red Lobster Wagyu Bacon Cheeseburger                                        | [35](episodes/35) | February 16th, 2021  |
 | 41.5    | Taco Bell Buffalo Chicken Nacho Fries & Buffalo Chicken Nacho Fries Burrito | [10](episodes/10) | March 3rd, 2020      |
 | 41      | Fazoli's Parmesan-Crusted Alfredo with Meatballs                            | [26](episodes/26) | October 13th, 2020   |
+| 37.5    | Zaxby's Signature Club Sandwich                                             | [64](episodes/64) | March 15th, 2022     |
 | 34.5    | Applebees Cheetos Boneless Wings & Cheetos Cheese Bites                     | [55](episodes/55) | November 23rd, 2021  |
 | 32      | Wendy's Big Bacon Cheddar Cheeseburger & Chicken Sandwich                   | [50](episodes/50) | September 14th, 2021 |
 | 30      | Outback Steakhouse Peppercorn Short Rib                                     | [32](episodes/32) | January 5th, 2021    |
