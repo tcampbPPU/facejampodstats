@@ -21,6 +21,21 @@ export default theme({
   docs: {
     primaryColor: '#de7d16',
   },
+  head: {
+    title: 'Face Jam Pod Stats',
+    htmlAttrs: {
+      lang: 'en',
+    },
+    meta: [
+      { charset: 'utf-8' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      { hid: 'description', name: 'description', content: 'Face Jam Pod Stats' },
+    ],
+    link: [
+      { rel: 'canonical', href: siteUrl },
+      { rel: 'alternate', hreflang: 'en', href: siteUrl },
+    ],
+  },
   modules: ['@nuxtjs/robots', '@nuxtjs/sitemap'],
   robots: {
     UserAgent: '*',
