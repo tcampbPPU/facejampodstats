@@ -6,7 +6,7 @@ category: ''
 
 ### Latest Episode
 
-[Insomnia Cookies Hibiscus Berry & Lemon Poppy Seed Cookies](episodes/65)
+[Boston Market Sweet Thai Garlic Chicken](episodes/66)
 
 ### About
 
@@ -40,6 +40,7 @@ Fast food creations are coming out too fast to keep track of but luckily Michael
 | 71      | Shake Shack Korean-Style Fried Chicken Sandwich & Gochujang Fries           | [34](episodes/34) | February 2nd, 2021   |
 | 70.5    | Golden Chick Cholula Chicken Sandwich & Tenders                             | [29](episodes/29) | November 24th, 2020  |
 | 70      | Dairy Queen Rotisserie-Style Chicken Bites & Brownie Dough Blizzard         | [33](episodes/33) | January 19th, 2021   |
+| 69      | Boston Market Sweet Thai Garlic Chicken                                     | [66](episodes/66) | April 12th, 2022     |
 | 65.5    | Sonic Fritos Chili Cheese Wrap & Garlic Butter Bacon Burger                 | [57](episodes/57) | December 21st, 2021  |
 | 65.5    | Red Robin Scorpion Gourmet Burger & Scorpion Wings                          | [47](episodes/47) | August 3rd, 2021     |
 | 65.15   | Jack in the Box Spicy Tiny Tacos and Loaded Spicy Tiny Tacos                | [48](episodes/48) | August 17th, 2021    |
