@@ -6,7 +6,7 @@ category: ''
 
 ### Latest Episode
 
-[Buffalo Wild Wings Doritos Flamin’ Hot Nacho Flavored Sauce](episodes/67)
+[Dairy Queen Cheesy Dude & Cheesy Steak Fingers](episodes/68)
 
 ### About
 
@@ -77,6 +77,7 @@ Fast food creations are coming out too fast to keep track of but luckily Michael
 | 23      | Domino's Chicken Taco Pizza & Cheeseburger Pizza                            | [24](episodes/24) | September 15th, 2020 |
 | 21      | Pizza Hut Spicy Lover's Pizzas                                              | [63](episodes/63) | March 1st, 2022      |
 | 17.5    | Pizza Hut Big Dipper & Mozzarella Popper Pizzas                             | [12](episodes/12) | March 31st, 2020     |
+| 15      | Dairy Queen Cheesy Dude & Cheesy Steak Fingers                              | [68](episodes/68) | May 10th, 2022       |
 | 15      | Burger King Ch'King Deluxe & Spicy Ch'King Deluxe                           | [46](episodes/46) | July 20th, 2021      |
 | 14      | Subway BBQ Rib Sandwich                                                     | [21](episodes/21) | August 4th, 2020     |
 | 13.8    | TGI Fridays Under the Big Top Menu                                          | [39](episodes/39) | April 13th, 2021     |
