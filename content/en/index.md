@@ -6,7 +6,7 @@ category: ''
 
 ### Latest Episode
 
-[Fazoli's Lasagnafest & Sweet Bacon Glaze Wings](episodes/69)
+[Carl's Jr Primal Angus Thickburger](episodes/70)
 
 ### About
 
@@ -46,6 +46,7 @@ Fast food creations are coming out too fast to keep track of but luckily Michael
 | 65.15   | Jack in the Box Spicy Tiny Tacos and Loaded Spicy Tiny Tacos                | [48](episodes/48) | August 17th, 2021    |
 | 65      | Jack in the Box Tiny Tacos & Loaded Tiny Tacos                              | [8](episodes/8)   | February 4th, 2020   |
 | 64.5    | Church's Texas-Cut Bacon Chicken Sandwich                                   | [54](episodes/54) | November 9th, 2021   |
+| 64      | Carl's Jr Primal Angus Thickburger                                          | [70](episodes/70) | June 7th, 2022       |
 | 64      | Whataburger Hatch Green Chile Bacon Burger & Chocolate Mint Shake           | [52](episodes/52) | October 12th, 2021   |
 | 64      | Boston Market Tuscan Chicken & Chicken Marsala                              | [30](episodes/30) | December 8th, 2020   |
 | 63      | IHOP Elf on the Shelf Menu                                                  | [5](episodes/5)   | December 24th, 2019  |
