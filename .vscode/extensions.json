@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "editorconfig.editorconfig",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "henrynguyen5-vsc.vsc-nvm",
+        "dbaeumer.vscode-eslint",
+        "bradlc.vscode-tailwindcss",
+        "octref.vetur"
+    ],
+}
