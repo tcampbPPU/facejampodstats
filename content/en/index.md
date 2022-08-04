@@ -6,7 +6,9 @@ category: ''
 
 ### Latest Episode
 
-[Culver’s Wisconsin Big Cheese Pub Burger](episodes/72)
+[Pizza Hut The Edge Pizza](episodes/73)
+
+<!-- [Whataburger Bacon Blue Cheese Burger & Banana Pudding Shake](episodes/74) -->
 
 ### About
 
@@ -74,6 +76,7 @@ Fast food creations are coming out too fast to keep track of but luckily Michael
 | 41      | Fazoli's Parmesan-Crusted Alfredo with Meatballs                            | [26](episodes/26) | October 13th, 2020   |
 | 37.5    | Fazoli's Lasagnafest & Sweet Bacon Glaze Wings                              | [69](episodes/69) | May 24th, 2022       |
 | 37.5    | Zaxby's Signature Club Sandwich                                             | [64](episodes/64) | March 15th, 2022     |
+| 35      | Pizza Hut The Edge Pizza                                                    | [73](episodes/73) | July 19th, 2022      |
 | 34.5    | Applebees Cheetos Boneless Wings & Cheetos Cheese Bites                     | [55](episodes/55) | November 23rd, 2021  |
 | 32      | Wendy's Big Bacon Cheddar Cheeseburger & Chicken Sandwich                   | [50](episodes/50) | September 14th, 2021 |
 | 30      | Outback Steakhouse Peppercorn Short Rib                                     | [32](episodes/32) | January 5th, 2021    |
@@ -88,3 +91,5 @@ Fast food creations are coming out too fast to keep track of but luckily Michael
 | 7.825   | Burger King Italian Original Chicken Sandwich                               | [58](episodes/58) | January 4th, 2022    |
 | NR      | Insomnia Cookies Hibiscus Berry & Lemon Poppy Seed Cookies                  | [65](episodes/65) | March 29th, 2022     |
 | NR      | Taco Cabana's Birria Quesadilla                                             | [60](episodes/60) | February 1st, 2022   |
+
+<!-- | 0    | Whataburger Bacon Blue Cheese Burger & Banana Pudding Shake                                          | [74](episodes/74) | August 2nd, 2022     | -->

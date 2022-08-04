@@ -2,8 +2,8 @@
 title:
 description:
 position:
-category:
-thumbnail:
+category: 'episodes'
+thumbnail: https://img.youtube.com/vi/YT_SITE/0.jpg
 ---
 
 <!-- Description -->
